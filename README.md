@@ -1,4 +1,4 @@
-# Pedagogicke-portfolio-IT <br>
+# Pedagogicke-portfolio <br>
 Bakalarske Studium <br>
 Michal Hruška (D25918) <br>
 Obor: Informatika/Technika (Kombinovany) 
